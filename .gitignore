@@ -10,3 +10,9 @@ data/telegram_session*
 .env
 
 
+# Large/raw data
+data/raw/
+*.parquet
+*.tsv
+*.csv
+!data/seed/**
