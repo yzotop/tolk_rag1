@@ -1,0 +1,9 @@
+# Sample author list (one name per line).
+# Replace with up to 3000 authors in politics/economics/sociology domains.
+# Example entries:
+Андрей Илларионов
+Алексей Навальный
+Николай Бердяев
+Фридрих Хайек
+Мария Слоним
+

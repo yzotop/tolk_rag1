@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+data/telegram_session*
+*.session
+.DS_Store
+.env
+
+

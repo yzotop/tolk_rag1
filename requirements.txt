@@ -1,0 +1,12 @@
+telethon
+pandas
+numpy
+scikit-learn
+joblib
+natasha  # Russian NLP library
+pymorphy2  # Russian morphological analyzer
+navec  # Russian word embeddings (optional)
+python-dateutil
+requests
+
+
